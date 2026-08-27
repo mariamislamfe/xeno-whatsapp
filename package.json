@@ -1,0 +1,17 @@
+{
+  "name": "xeno-whatsapp",
+  "version": "1.0.0",
+  "description": "WhatsApp messaging service for XENO",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "qrcode": "^1.5.4",
+    "whatsapp-web.js": "^1.26.0"
+  }
+}

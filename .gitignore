@@ -1,3 +1,9 @@
 node_modules/
 wa_session/
 .env
+
+# Private / local files
+.env*.local
+CLAUDE.md
+AGENTS.md
+.claude/
